@@ -19,5 +19,6 @@ To run the customer interface please follow the steps below:
 	npm install
 	node bamazonCustomer.js
 
-### Demo Video
-Watch a live demo [here]().
+### Demo
+
+![alt text](http://url/to/bamazon-demo.gif)
