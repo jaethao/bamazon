@@ -21,4 +21,4 @@ To run the customer interface please follow the steps below:
 
 ### Demo
 
-![alt text](http://url/to/bamazon-demo.gif)
+![alt text](https://github.com/jaethao/bamazon/blob/master/bamazon-demo.gif)
